@@ -1,5 +1,5 @@
 {
-    "name": "simonardejr/BladeSet",
+    "name": "simonardejr/bladeset",
     "description": "A very simple blade extension to allow variables to be set.",
     "keywords": ["laravel", "blade"],
     "license": "MIT",
