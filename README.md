@@ -39,7 +39,7 @@ I felt that the use of the `@set` was a more elegant solution in the context of 
 Require this package in your `composer.json` and update composer. This will download the package.
 
 ```php
-"simonardejr/BladeSet": "1.*"
+"simonardejr/bladeset": "dev-master"
 ```
 
 After updating composer, add the ServiceProvider to the providers array in `app/config/app.php`
